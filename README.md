@@ -1,2 +1,2 @@
 # IntranetBot
-General Bots Intranet based bot.
+Open-source free version of General Bots Intranet based bot.
