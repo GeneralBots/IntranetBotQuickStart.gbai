@@ -1,0 +1,3 @@
+[submodule "AzureADPasswordReset.gbapp"]
+	path = AzureADPasswordReset.gbapp
+	url = https://github.com/pragmatismo-io/AzureADPasswordReset.gbapp.git
