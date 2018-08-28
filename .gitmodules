@@ -3,4 +3,4 @@
 	url = https://github.com/pragmatismo-io/AzureADPasswordReset.gbapp.git
 [submodule "ProjectOnline.gbkb"]
 	path = ProjectOnline.gbkb
-	url = https://github.com/pragmatismo-io/ProjectOnline.gbkb
+	url = https://github.com/pragmatismo-io/ProjectOnline.gbkb.git
