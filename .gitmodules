@@ -1,6 +1,6 @@
 [submodule "AzureADPasswordReset.gbapp"]
 	path = AzureADPasswordReset.gbapp
 	url = https://github.com/pragmatismo-io/AzureADPasswordReset.gbapp.git
-[submodule "ProjectBot.gbkb"]
-	path = ProjectBot.gbkb
-	url = https://github.com/pragmatismo-io/ProjectBot.gbkb
+[submodule "ProjectOnline.gbkb"]
+	path = ProjectOnline.gbkb
+	url = https://github.com/pragmatismo-io/ProjectOnline.gbkb
