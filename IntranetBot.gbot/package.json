@@ -1,0 +1,13 @@
+{
+  "botId": "IntranetBotQuickStart.gbot",
+  "version": "1.0.0",
+  "theme": "Office365.gbtheme",
+  "ui": "default.gbui",
+  "kb": "ProjectOnline.gbkb",
+  "title": "IntranetBotQuickStart",
+  "description": "Intranet Bot Quick Start for General Bots",
+  "whoAmIVideo":"https://gbdemos02.blob.core.windows.net/pragmatismo-ai-prd/pragmatismo-cis.mp4",
+  "author": "pragmatismo.io",
+  "license": "Private",
+  "engineName": "guaribas-1.0.0"
+}

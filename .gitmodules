@@ -4,3 +4,6 @@
 [submodule "ProjectOnline.gbkb"]
 	path = ProjectOnline.gbkb
 	url = https://github.com/pragmatismo-io/ProjectOnline.gbkb.git
+[submodule "Office365.gbtheme"]
+	path = Office365.gbtheme
+	url = https://github.com/pragmatismo-io/Office365.gbtheme.git
